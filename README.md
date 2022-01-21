@@ -3,8 +3,8 @@
 A new Flutter project.
 ## using 
 ### 1- Sqflite
-### 2- Provider State Manegmant
-### 3- Shared Prefernces
+### 2- Provider State Management
+### 3- Shared Preferences
 
 
 ## Getting Started
