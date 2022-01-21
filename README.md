@@ -1,10 +1,14 @@
 # Note App
 
 A new Flutter project.
+## using 
+### 1- Sqflite
+### 2- Provider State Manegmant
+### 3- Shared Prefernces
+
 
 ## Getting Started
 
-![Screenshot_20220121_172346](https://user-images.githubusercontent.com/87586865/150561310-9d296e16-93f5-4982-bb21-46e1419cd9d5.png)
 
 
 
