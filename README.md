@@ -1,6 +1,6 @@
 # Note App
 
-A new Flutter project.
+
 ![image](https://github.com/AmerDawood/Note-App/blob/main/assets/Group%20271.png)
 
 ## using 
