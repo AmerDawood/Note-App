@@ -9,6 +9,7 @@ A new Flutter project.
 
 ## Getting Started
 
+![image](https://github.com/AmerDawood/Note-App/blob/main/assets/Group%20271.png)
 
 
 
